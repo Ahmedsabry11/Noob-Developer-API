@@ -182,3 +182,32 @@ The data structure in which widgets & generated code are stored with
     }
 }
 ```
+## Contributors <a name = "Contributors"></a>
+
+<table>
+  <tr>
+    </td>
+    <td align="center">
+    <a href="https://github.com/ZiadSheriif" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="150px;" alt="Ziad Sherif"/>
+    <br />
+    <sub><b>Ziad Sherif</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Abd-ELrahmanHamza" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/68310502?v=4" width="150px;" alt="Abdelrahman Hamza"/>
+    <br />
+    <sub><b>Abdelrahman Hamza</b></sub></a>
+    </td>
+   <td align="center">
+    <a href="https://github.com/Ahmedsabry11" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/75908511?v=4" width="150px;" alt="Ahmed Sabry"/>
+    <br />
+    <sub><b>Ahmed Sabry</b></sub></a>
+
+  </tr>
+ </table>
+
+## License <a name = "license"></a>
+
+> This software is licensed under Apache License, See [License](https://github.com/Ahmedsabry11/Nope-Developer-API/blob/main/LICENSE) for more information ©Noob-Developer.
