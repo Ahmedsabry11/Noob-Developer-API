@@ -98,7 +98,7 @@ Layer represent request or response body sent or recieved to presentation layer
 ## API Documentation
 
 All details about each endpoints can be 
-[Found Here](https://htmlpreview.github.io/?https://github.com/Ahmedsabry11/Nope-Developer-API/blob/main/documentation.html)
+[Found Here](https://htmlpreview.github.io/?https://github.com/Ahmedsabry11/Noob-Developer-API/blob/main/documentation.html)
 
 ## JSON Structure
 
@@ -212,4 +212,4 @@ The data structure in which widgets & generated code are stored with
 
 ## License <a name = "license"></a>
 
-> This software is licensed under Apache License, See [License](https://github.com/Ahmedsabry11/Nope-Developer-API/blob/main/LICENSE) for more information ©Noob-Developer.
+> This software is licensed under Apache License, See [License](https://github.com/Ahmedsabry11/Noob-Developer-API/blob/main/LICENSE) for more information ©Noob-Developer.
