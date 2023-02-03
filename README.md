@@ -1,9 +1,9 @@
-# Nope-Developer-API
+# Noob-Developer-API
 A low-code no-code web API for building full web applications
 
 ## Table of contents
 
-- [Nope-Developer-API](#nope-developer-api)
+- [Noob-Developer-API](#noob-developer-api)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Introduction](#introduction)
@@ -19,12 +19,14 @@ A low-code no-code web API for building full web applications
   - [JSON Structure](#json-structure)
     - [Description](#description)
     - [Example](#example)
+  - [Contributors ](#contributors-)
+  - [License ](#license-)
 
 ## Overview
 
 ### Introduction
 
-ITWORX WebTool Tool is a no /low code opensource platform for Easy and Fast development where the user can make his own application with no need of a strong coding background. the user can design it by draging and droping the different widgets. <br>
+ITWORX WebTool is a no /low code opensource platform for Easy and Fast development where the user can make his own application with no need of a strong coding background. the user can design it by draging and droping the different widgets. <br>
 
 > **User Feature**
 
